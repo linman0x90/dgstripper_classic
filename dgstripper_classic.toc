@@ -1,6 +1,6 @@
 ## Interface: 11302
 ## Title: dG Stripper 
-## Notes: Strips unwanted UI elemeents..
+## Notes: Strips unwanted UI elemeents.
 ## Author: @project-author@ 
 ## Version: 1.13.2.@project-revision@ 
 ## SavedVariables: dgstripperDB
