@@ -1,11 +1,14 @@
-## Interface: 11302
+## Interface: 11307
+## Interface-Classic: 11307
+## Interface-BCC: 20501
 ## Title: dG Stripper 
 ## Notes: Strips unwanted UI elemeents.
 ## Author: @project-author@ 
-## Version: 1.13.2.@project-revision@ 
+## Version: @project-version@ 
 ## SavedVariables: dgstripperDB
 ## SavedVariablesPerCharacter: dgstripperDBPC
 ## X-Website: http://www.wowace.com
 ## X-Category: Interface Enhancements
+## X-Curse-Project-ID: 27355
 
 dgstripper_classic.lua
